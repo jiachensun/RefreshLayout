@@ -1,0 +1,3 @@
+include ':myrefresh'
+include ':app'
+rootProject.name = "MyTestRefresh"
